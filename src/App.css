@@ -1,0 +1,59 @@
+.name-column {
+  width: 0%;
+}
+
+.actions {
+  position: relative;
+}
+
+.header-item > p {
+  font-weight: bold;
+  /* font-size: large; */
+  padding: 0;
+  margin: 0;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+}
+
+.options {
+  height: 30px;
+  width: 60px;
+  background-color: rgb(239, 249, 249);
+  padding: 10px;
+  display: none;
+}
+
+.delete {
+  color: red;
+  margin: 0 8px;
+}
+
+.edit-icon {
+  color: rgb(43, 43, 245);
+}
+
+.save-icon {
+  color: rgb(43, 43, 245);
+}
+
+.table-row {
+  position: relative;
+}
+
+/* .options-icon:hover + .options { */
+.options-icon:hover + .options,
+.options:hover {
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+  top: 10%;
+  left: -50%;
+  transition: 5s all ease-in;
+}
+
+.MuiTableCell-root .MuiSelect-select {
+    padding: 8px;
+}

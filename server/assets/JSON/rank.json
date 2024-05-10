@@ -1,0 +1,21 @@
+{
+  "rank": [
+    { "id": 1, "rank": "SP" },
+    { "id": 2, "rank": "ADDLSP HQ" },
+    { "id": 3, "rank": "ADDLSP CRIME" },
+    { "id": 4, "rank": "DSP HQ" },
+    { "id": 5, "rank": "INSPECTOR" },
+    { "id": 6, "rank": "SI" },
+    { "id": 7, "rank": "COMMISIONER" },
+    { "id": 8, "rank": "JOINT COMMISIONER" },
+    { "id": 9, "rank": "DCP ADMIN" },
+    { "id": 10, "rank": "ADCP ADMIN" },
+    { "id": 11, "rank": "ACP ADMIN" },
+    { "id": 12, "rank": "DCP CRIME" },
+    { "id": 13, "rank": "ADCP CRIME" },
+    { "id": 14, "rank": "ACP CRIME" },
+    { "id": 15, "rank": "OTHER" },
+    { "id": 16, "rank": "ASI" },
+    { "id": 17, "rank": "WSI" }
+  ]
+}

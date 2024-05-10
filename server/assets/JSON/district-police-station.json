@@ -1,0 +1,1985 @@
+{
+  "ASSAM": {
+    "CM's Special Vigilance": [
+      {
+        "PS_CODE": 4061001,
+        "PS_NAME": "CM's Special Vigilance PS"
+      }
+    ],
+    "GUWAHATI CENTRAL": [
+      {
+        "PS_CODE": 4062001,
+        "PS_NAME": "ALL WOMAN P.S"
+      },
+      {
+        "PS_CODE": 4062002,
+        "PS_NAME": "CHANDMARI"
+      },
+      {
+        "PS_CODE": 4062003,
+        "PS_NAME": "GEETA NAGAR"
+      },
+      {
+        "PS_CODE": 4062004,
+        "PS_NAME": "LATASIL"
+      },
+      {
+        "PS_CODE": 4062005,
+        "PS_NAME": "NOONMATI"
+      },
+      {
+        "PS_CODE": 4062006,
+        "PS_NAME": "PALTANBAZAR"
+      },
+      {
+        "PS_CODE": 4062007,
+        "PS_NAME": "PANBAZAR"
+      },
+      {
+        "PS_CODE": 4062008,
+        "PS_NAME": "PRAGJYOTISHPUR"
+      },
+      {
+        "PS_CODE": 4062009,
+        "PS_NAME": "SACHAL/SATGAON"
+      },
+      {
+        "PS_CODE": 4062010,
+        "PS_NAME": "Guwahati Electricity PS"
+      }
+    ],
+    "GUWAHATI WEST": [
+      {
+        "PS_CODE": 4063001,
+        "PS_NAME": "AZARA"
+      },
+      {
+        "PS_CODE": 4063002,
+        "PS_NAME": "BHARALUMUKH"
+      },
+      {
+        "PS_CODE": 4063003,
+        "PS_NAME": "FATASIL AMBARI"
+      },
+      {
+        "PS_CODE": 4063004,
+        "PS_NAME": "GORCHUK"
+      },
+      {
+        "PS_CODE": 4063005,
+        "PS_NAME": "JALUKBARI"
+      },
+      {
+        "PS_CODE": 4063006,
+        "PS_NAME": "PANDU RIVER PS"
+      }
+    ],
+    "BISWANATH": [
+      {
+        "PS_CODE": 4064001,
+        "PS_NAME": "BEHALI"
+      },
+      {
+        "PS_CODE": 4064002,
+        "PS_NAME": "BISWANATH (CHARIALI)"
+      },
+      {
+        "PS_CODE": 4064003,
+        "PS_NAME": "GOHPUR PS"
+      },
+      {
+        "PS_CODE": 4064004,
+        "PS_NAME": "HELEM"
+      },
+      {
+        "PS_CODE": 4064005,
+        "PS_NAME": "JAMUGURI"
+      },
+      {
+        "PS_CODE": 4064006,
+        "PS_NAME": "SOOTEA"
+      },
+      {
+        "PS_CODE": 4064007,
+        "PS_NAME": "GINJIA PS"
+      },
+      {
+        "PS_CODE": 4093012,
+        "PS_NAME": "BISWANATH GHAT RPS"
+      }
+    ],
+    "SADIYA": [
+      {
+        "PS_CODE": 4065001,
+        "PS_NAME": "CHANGCHUP CHARIALI PS"
+      },
+      {
+        "PS_CODE": 4065002,
+        "PS_NAME": "DHOLLA PS"
+      },
+      {
+        "PS_CODE": 4065003,
+        "PS_NAME": "SADIYA PS"
+      },
+      {
+        "PS_CODE": 4065004,
+        "PS_NAME": "SAIKHOWAGHAT PS"
+      }
+    ],
+    "HOJAI": [
+      {
+        "PS_CODE": 4066001,
+        "PS_NAME": "DABOKA PS"
+      },
+      {
+        "PS_CODE": 4066002,
+        "PS_NAME": "HOJAI"
+      },
+      {
+        "PS_CODE": 4066003,
+        "PS_NAME": "JAMUNAMUKH"
+      },
+      {
+        "PS_CODE": 4066004,
+        "PS_NAME": "KAKI"
+      },
+      {
+        "PS_CODE": 4066005,
+        "PS_NAME": "LANKA"
+      },
+      {
+        "PS_CODE": 4066006,
+        "PS_NAME": "LUMDING"
+      },
+      {
+        "PS_CODE": 4066007,
+        "PS_NAME": "MURAJHAR"
+      }
+    ],
+    "SOUTH SALMARA": [
+      {
+        "PS_CODE": 4067001,
+        "PS_NAME": "FAKIRGANJ "
+      },
+      {
+        "PS_CODE": 4067002,
+        "PS_NAME": "MANKACHAR"
+      },
+      {
+        "PS_CODE": 4067003,
+        "PS_NAME": "SOUTH SALMARA"
+      },
+      {
+        "PS_CODE": 4067004,
+        "PS_NAME": "SUKCHAR"
+      }
+    ],
+    "MAJULI": [
+      {
+        "PS_CODE": 4068001,
+        "PS_NAME": "GARAMUR PS"
+      },
+      {
+        "PS_CODE": 4068002,
+        "PS_NAME": "JENGRAIMUKH"
+      },
+      {
+        "PS_CODE": 4068003,
+        "PS_NAME": "MAJULI"
+      },
+      {
+        "PS_CODE": 4068004,
+        "PS_NAME": "DAKHIN MAJULI/NEMATIGHAT RPS"
+      }
+    ],
+    "VIGILANCE AND ANTI-CORRUPTION(V AND AC)": [
+      {
+        "PS_CODE": 4069001,
+        "PS_NAME": "V AND AC PS"
+      }
+    ],
+    "SPECIAL TASK FORCE": [
+      {
+        "PS_CODE": 4070001,
+        "PS_NAME": "S.T.F PS"
+      }
+    ],
+    "SPECIAL OPERATION UNIT": [],
+    "CACHAR": [
+      {
+        "PS_CODE": 4072005,
+        "PS_NAME": "JOYPUR"
+      },
+      {
+        "PS_CODE": 4072006,
+        "PS_NAME": "KACHUDRAM"
+      },
+      {
+        "PS_CODE": 4072007,
+        "PS_NAME": "BORKHOLA"
+      },
+      {
+        "PS_CODE": 4072012,
+        "PS_NAME": "DHOLAI"
+      },
+      {
+        "PS_CODE": 4072015,
+        "PS_NAME": "GHUNGUR"
+      },
+      {
+        "PS_CODE": 4072034,
+        "PS_NAME": "KATIGORA"
+      },
+      {
+        "PS_CODE": 4072041,
+        "PS_NAME": "LAKHIPUR"
+      },
+      {
+        "PS_CODE": 4072066,
+        "PS_NAME": "SILCHAR"
+      },
+      {
+        "PS_CODE": 4072067,
+        "PS_NAME": "SONAI"
+      },
+      {
+        "PS_CODE": 4072071,
+        "PS_NAME": "UDARBOND"
+      },
+      {
+        "PS_CODE": 4072080,
+        "PS_NAME": "JIRIGHAT"
+      },
+      {
+        "PS_CODE": 4072081,
+        "PS_NAME": "Jaypur"
+      },
+      {
+        "PS_CODE": 4072082,
+        "PS_NAME": "Kalain"
+      },
+      {
+        "PS_CODE": 4072083,
+        "PS_NAME": "Dwarbond"
+      },
+      {
+        "PS_CODE": 4072084,
+        "PS_NAME": "Annapurnaghat RPS"
+      },
+      {
+        "PS_CODE": 4072085,
+        "PS_NAME": "Silchar Electicity PS"
+      },
+      {
+        "PS_CODE": 4072086,
+        "PS_NAME": "KALAIN"
+      }
+    ],
+    "C I D": [
+      {
+        "PS_CODE": 4073000,
+        "PS_NAME": "C I D PS"
+      },
+      {
+        "PS_CODE": 4073001,
+        "PS_NAME": "CYBER PS CID"
+      }
+    ],
+    "DARRANG": [
+      {
+        "PS_CODE": 4074018,
+        "PS_NAME": "KHARUPETIA PS"
+      },
+      {
+        "PS_CODE": 4074019,
+        "PS_NAME": "SHYAMPURI RPS"
+      },
+      {
+        "PS_CODE": 4074021,
+        "PS_NAME": "DALGAON"
+      },
+      {
+        "PS_CODE": 4074022,
+        "PS_NAME": "DHULA"
+      },
+      {
+        "PS_CODE": 4074036,
+        "PS_NAME": "KALAIGAON"
+      },
+      {
+        "PS_CODE": 4074037,
+        "PS_NAME": "KHAIRABARI"
+      },
+      {
+        "PS_CODE": 4074045,
+        "PS_NAME": "MANGALDAI"
+      },
+      {
+        "PS_CODE": 4074046,
+        "PS_NAME": "MAZBAT"
+      },
+      {
+        "PS_CODE": 4074052,
+        "PS_NAME": "PANERI"
+      },
+      {
+        "PS_CODE": 4074057,
+        "PS_NAME": "SIPAJHAR"
+      },
+      {
+        "PS_CODE": 4074061,
+        "PS_NAME": "TANGLA"
+      },
+      {
+        "PS_CODE": 4074066,
+        "PS_NAME": "UDALGURI"
+      },
+      {
+        "PS_CODE": 4074067,
+        "PS_NAME": "Mangaldoi Electricity PS"
+      }
+    ],
+    "DIBRUGARH": [
+      {
+        "PS_CODE": 4075004,
+        "PS_NAME": "BARBARUAH"
+      },
+      {
+        "PS_CODE": 4075006,
+        "PS_NAME": "BORDUBI"
+      },
+      {
+        "PS_CODE": 4075010,
+        "PS_NAME": "CHABUA"
+      },
+      {
+        "PS_CODE": 4075015,
+        "PS_NAME": "DIBRUGARH"
+      },
+      {
+        "PS_CODE": 4075019,
+        "PS_NAME": "DULIAJAN"
+      },
+      {
+        "PS_CODE": 4075023,
+        "PS_NAME": "JOYPUR PS"
+      },
+      {
+        "PS_CODE": 4075029,
+        "PS_NAME": "KHOWANG"
+      },
+      {
+        "PS_CODE": 4075030,
+        "PS_NAME": "LAHOWAL"
+      },
+      {
+        "PS_CODE": 4075037,
+        "PS_NAME": "MORAN"
+      },
+      {
+        "PS_CODE": 4075041,
+        "PS_NAME": "NAHARKATIA"
+      },
+      {
+        "PS_CODE": 4075042,
+        "PS_NAME": "NAMRUP"
+      },
+      {
+        "PS_CODE": 4075049,
+        "PS_NAME": "ROHMARIA"
+      },
+      {
+        "PS_CODE": 4075053,
+        "PS_NAME": "TENGAKHAT"
+      },
+      {
+        "PS_CODE": 4075054,
+        "PS_NAME": "TINGKHONG"
+      },
+      {
+        "PS_CODE": 4075055,
+        "PS_NAME": "Dibrugarh Electricity PS"
+      }
+    ],
+    "GOALPARA": [
+      {
+        "PS_CODE": 4076010,
+        "PS_NAME": "AGIA PS"
+      },
+      {
+        "PS_CODE": 4076011,
+        "PS_NAME": "CHUNARI PS"
+      },
+      {
+        "PS_CODE": 4076012,
+        "PS_NAME": "CHUNARI RPS"
+      },
+      {
+        "PS_CODE": 4076013,
+        "PS_NAME": "BAGUAN"
+      },
+      {
+        "PS_CODE": 4076030,
+        "PS_NAME": "DHUPDHARA"
+      },
+      {
+        "PS_CODE": 4076032,
+        "PS_NAME": "DUDHNOI"
+      },
+      {
+        "PS_CODE": 4076045,
+        "PS_NAME": "GOALPARA"
+      },
+      {
+        "PS_CODE": 4076050,
+        "PS_NAME": "KRISHNAI"
+      },
+      {
+        "PS_CODE": 4076062,
+        "PS_NAME": "LAKHIPUR"
+      },
+      {
+        "PS_CODE": 4076063,
+        "PS_NAME": "MATIA"
+      },
+      {
+        "PS_CODE": 4076064,
+        "PS_NAME": "MORNOI"
+      },
+      {
+        "PS_CODE": 4076081,
+        "PS_NAME": "RANGJULI"
+      },
+      {
+        "PS_CODE": 4076082,
+        "PS_NAME": "Goalpara Electricity PS"
+      },
+      {
+        "PS_CODE": 4093001,
+        "PS_NAME": "GOALPARA RPS"
+      }
+    ],
+    "GOVT. RLY. POLICE": [
+      {
+        "PS_CODE": 4077005,
+        "PS_NAME": "BADARPUR"
+      },
+      {
+        "PS_CODE": 4077006,
+        "PS_NAME": "BONGAIGAON"
+      },
+      {
+        "PS_CODE": 4077008,
+        "PS_NAME": "BOKAJAN"
+      },
+      {
+        "PS_CODE": 4077011,
+        "PS_NAME": "CHAPARMUKH"
+      },
+      {
+        "PS_CODE": 4077016,
+        "PS_NAME": "GUWAHATI"
+      },
+      {
+        "PS_CODE": 4077026,
+        "PS_NAME": "LUMDING"
+      },
+      {
+        "PS_CODE": 4077031,
+        "PS_NAME": "MARIANI"
+      },
+      {
+        "PS_CODE": 4077037,
+        "PS_NAME": "NORTH LAKHIMPUR"
+      },
+      {
+        "PS_CODE": 4077042,
+        "PS_NAME": "RANGAPARA"
+      },
+      {
+        "PS_CODE": 4077043,
+        "PS_NAME": "RANGIA"
+      },
+      {
+        "PS_CODE": 4077048,
+        "PS_NAME": "SILAPATHAR"
+      },
+      {
+        "PS_CODE": 4077049,
+        "PS_NAME": "SIMALUGURI"
+      },
+      {
+        "PS_CODE": 4077055,
+        "PS_NAME": "TINSUKIA"
+      },
+      {
+        "PS_CODE": 4077056,
+        "PS_NAME": "Silapothar GRPS"
+      }
+    ],
+    "KAMRUP": [
+      {
+        "PS_CODE": 4078001,
+        "PS_NAME": "AZARA"
+      },
+      {
+        "PS_CODE": 4078002,
+        "PS_NAME": "BASISTHA"
+      },
+      {
+        "PS_CODE": 4078003,
+        "PS_NAME": "ALL WOMAN PS"
+      },
+      {
+        "PS_CODE": 4078004,
+        "PS_NAME": "BHARALUMUKH"
+      },
+      {
+        "PS_CODE": 4078007,
+        "PS_NAME": "BAIHATA"
+      },
+      {
+        "PS_CODE": 4078011,
+        "PS_NAME": "BOKO"
+      },
+      {
+        "PS_CODE": 4078014,
+        "PS_NAME": "CHAYGAON"
+      },
+      {
+        "PS_CODE": 4078015,
+        "PS_NAME": "CHANDMARI"
+      },
+      {
+        "PS_CODE": 4078020,
+        "PS_NAME": "DISPUR"
+      },
+      {
+        "PS_CODE": 4078021,
+        "PS_NAME": "FATASIL AMBARI"
+      },
+      {
+        "PS_CODE": 4078023,
+        "PS_NAME": "PANBAZAR"
+      },
+      {
+        "PS_CODE": 4078024,
+        "PS_NAME": "GORESWAR"
+      },
+      {
+        "PS_CODE": 4078028,
+        "PS_NAME": "HAJO"
+      },
+      {
+        "PS_CODE": 4078032,
+        "PS_NAME": "JALUKBARI"
+      },
+      {
+        "PS_CODE": 4078039,
+        "PS_NAME": "KAMALPUR"
+      },
+      {
+        "PS_CODE": 4078041,
+        "PS_NAME": "KHETRI"
+      },
+      {
+        "PS_CODE": 4078042,
+        "PS_NAME": "KOYA"
+      },
+      {
+        "PS_CODE": 4078044,
+        "PS_NAME": "LATASIL"
+      },
+      {
+        "PS_CODE": 4078052,
+        "PS_NAME": "NAGARBERA"
+      },
+      {
+        "PS_CODE": 4078054,
+        "PS_NAME": "NOONMATI"
+      },
+      {
+        "PS_CODE": 4078055,
+        "PS_NAME": "NORTH GUWAHATI"
+      },
+      {
+        "PS_CODE": 4078056,
+        "PS_NAME": "GEETA NAGAR"
+      },
+      {
+        "PS_CODE": 4078059,
+        "PS_NAME": "PALASHBARI"
+      },
+      {
+        "PS_CODE": 4078060,
+        "PS_NAME": "PALTAN BAZAR"
+      },
+      {
+        "PS_CODE": 4078061,
+        "PS_NAME": "PRAGJYOTISHPUR"
+      },
+      {
+        "PS_CODE": 4078066,
+        "PS_NAME": "RANGIYA"
+      },
+      {
+        "PS_CODE": 4078067,
+        "PS_NAME": "SUALKUCHI"
+      },
+      {
+        "PS_CODE": 4078068,
+        "PS_NAME": "BHATKHOWADIA RPS"
+      },
+      {
+        "PS_CODE": 4078069,
+        "PS_NAME": "CHANGSARI"
+      },
+      {
+        "PS_CODE": 4093002,
+        "PS_NAME": "SUALKUCHI RPS"
+      }
+    ],
+    "LAKHIMPUR": [
+      {
+        "PS_CODE": 4079001,
+        "PS_NAME": "BOGINODI"
+      },
+      {
+        "PS_CODE": 4079002,
+        "PS_NAME": "LALUK"
+      },
+      {
+        "PS_CODE": 4079005,
+        "PS_NAME": "BIHPURIA"
+      },
+      {
+        "PS_CODE": 4079010,
+        "PS_NAME": "DHAKUAKHANA"
+      },
+      {
+        "PS_CODE": 4079020,
+        "PS_NAME": "GHILAMORA PS"
+      },
+      {
+        "PS_CODE": 4079036,
+        "PS_NAME": "NORTH LAKHIMPUR"
+      },
+      {
+        "PS_CODE": 4079037,
+        "PS_NAME": "PANAIGAON"
+      },
+      {
+        "PS_CODE": 4079038,
+        "PS_NAME": "NARAYANPUR"
+      },
+      {
+        "PS_CODE": 4079039,
+        "PS_NAME": "BADIATIGHAT RPS"
+      },
+      {
+        "PS_CODE": 4079040,
+        "PS_NAME": "North Lakhimpur Electricity PS"
+      },
+      {
+        "PS_CODE": 4079041,
+        "PS_NAME": "Badatighat RPS"
+      }
+    ],
+    "KARBIANGLONG": [
+      {
+        "PS_CODE": 4080002,
+        "PS_NAME": "ANJOKPANI PS"
+      },
+      {
+        "PS_CODE": 4080004,
+        "PS_NAME": "BORPATHAR PS"
+      },
+      {
+        "PS_CODE": 4080005,
+        "PS_NAME": "BAITHALANGSO"
+      },
+      {
+        "PS_CODE": 4080006,
+        "PS_NAME": "BOKAJAN"
+      },
+      {
+        "PS_CODE": 4080007,
+        "PS_NAME": "CHOWKIHOLA PS"
+      },
+      {
+        "PS_CODE": 4080008,
+        "PS_NAME": "BOKOLIA PS"
+      },
+      {
+        "PS_CODE": 4080010,
+        "PS_NAME": "BORLANGFER PS"
+      },
+      {
+        "PS_CODE": 4080013,
+        "PS_NAME": "DIPHU"
+      },
+      {
+        "PS_CODE": 4080014,
+        "PS_NAME": "DOLMARA PS"
+      },
+      {
+        "PS_CODE": 4080015,
+        "PS_NAME": "DEITHOR PS"
+      },
+      {
+        "PS_CODE": 4080016,
+        "PS_NAME": "DILLAI PS"
+      },
+      {
+        "PS_CODE": 4080017,
+        "PS_NAME": "DOKMOKA PS"
+      },
+      {
+        "PS_CODE": 4080018,
+        "PS_NAME": "KHATKHATI P.S."
+      },
+      {
+        "PS_CODE": 4080020,
+        "PS_NAME": "HAMREN"
+      },
+      {
+        "PS_CODE": 4080021,
+        "PS_NAME": "HOWRAGHAT"
+      },
+      {
+        "PS_CODE": 4080025,
+        "PS_NAME": "KHERONI"
+      },
+      {
+        "PS_CODE": 4080028,
+        "PS_NAME": "MANJA PS"
+      },
+      {
+        "PS_CODE": 4080034,
+        "PS_NAME": "RONGMONGWE PS"
+      },
+      {
+        "PS_CODE": 4080040,
+        "PS_NAME": "SAMELANGSHO PS"
+      }
+    ],
+    "DIMA HASAO": [
+      {
+        "PS_CODE": 4081015,
+        "PS_NAME": "DEHANGI PS"
+      },
+      {
+        "PS_CODE": 4081017,
+        "PS_NAME": "DAIYANGMUKH PS"
+      },
+      {
+        "PS_CODE": 4081019,
+        "PS_NAME": "HAFLONG"
+      },
+      {
+        "PS_CODE": 4081021,
+        "PS_NAME": "HARANGAJAO PS"
+      },
+      {
+        "PS_CODE": 4081022,
+        "PS_NAME": "LANGTING PS"
+      },
+      {
+        "PS_CODE": 4081025,
+        "PS_NAME": "MAHUR"
+      },
+      {
+        "PS_CODE": 4081030,
+        "PS_NAME": "MAIBONG"
+      },
+      {
+        "PS_CODE": 4081043,
+        "PS_NAME": "UMRANGSO"
+      }
+    ],
+    "NAGAON": [
+      {
+        "PS_CODE": 4082004,
+        "PS_NAME": "LAWKHOWA CHAPORI"
+      },
+      {
+        "PS_CODE": 4082005,
+        "PS_NAME": "BATADRABA"
+      },
+      {
+        "PS_CODE": 4082008,
+        "PS_NAME": "DHING"
+      },
+      {
+        "PS_CODE": 4082011,
+        "PS_NAME": "DABOKA PS"
+      },
+      {
+        "PS_CODE": 4082013,
+        "PS_NAME": "HOJAI"
+      },
+      {
+        "PS_CODE": 4082014,
+        "PS_NAME": "JAJORI PS"
+      },
+      {
+        "PS_CODE": 4082015,
+        "PS_NAME": "JAKHALABANDHA"
+      },
+      {
+        "PS_CODE": 4082018,
+        "PS_NAME": "JAMUNAMUKH"
+      },
+      {
+        "PS_CODE": 4082019,
+        "PS_NAME": "JURIA"
+      },
+      {
+        "PS_CODE": 4082021,
+        "PS_NAME": "KACHUA"
+      },
+      {
+        "PS_CODE": 4082023,
+        "PS_NAME": "KALIBOR"
+      },
+      {
+        "PS_CODE": 4082024,
+        "PS_NAME": "KAMPUR"
+      },
+      {
+        "PS_CODE": 4082025,
+        "PS_NAME": "KAKI"
+      },
+      {
+        "PS_CODE": 4082026,
+        "PS_NAME": "KHATOWAL"
+      },
+      {
+        "PS_CODE": 4082029,
+        "PS_NAME": "LANKA"
+      },
+      {
+        "PS_CODE": 4082030,
+        "PS_NAME": "LUMDING"
+      },
+      {
+        "PS_CODE": 4082038,
+        "PS_NAME": "MURAJHAR"
+      },
+      {
+        "PS_CODE": 4082042,
+        "PS_NAME": "NAGAON"
+      },
+      {
+        "PS_CODE": 4082046,
+        "PS_NAME": "RAHA"
+      },
+      {
+        "PS_CODE": 4082047,
+        "PS_NAME": "RUPAHIHAT"
+      },
+      {
+        "PS_CODE": 4082054,
+        "PS_NAME": "SAMAGURI"
+      },
+      {
+        "PS_CODE": 4082055,
+        "PS_NAME": "SIBASTHAN"
+      },
+      {
+        "PS_CODE": 4082066,
+        "PS_NAME": "ULUANI PS"
+      },
+      {
+        "PS_CODE": 4082067,
+        "PS_NAME": "Nagaon Electricity PS"
+      }
+    ],
+    "SIBSAGAR": [
+      {
+        "PS_CODE": 4083002,
+        "PS_NAME": "AMGURI"
+      },
+      {
+        "PS_CODE": 4083004,
+        "PS_NAME": "BAKATA NEMUGURI"
+      },
+      {
+        "PS_CODE": 4083009,
+        "PS_NAME": "BORHAT PS"
+      },
+      {
+        "PS_CODE": 4083010,
+        "PS_NAME": "BIHUBOR"
+      },
+      {
+        "PS_CODE": 4083012,
+        "PS_NAME": "CHARAIPUNG PS"
+      },
+      {
+        "PS_CODE": 4083017,
+        "PS_NAME": "DEMOW"
+      },
+      {
+        "PS_CODE": 4083037,
+        "PS_NAME": "GAURISAGAR"
+      },
+      {
+        "PS_CODE": 4083038,
+        "PS_NAME": "GELEKI"
+      },
+      {
+        "PS_CODE": 4083040,
+        "PS_NAME": "HOLOWTING"
+      },
+      {
+        "PS_CODE": 4083041,
+        "PS_NAME": "MATHURAPUR"
+      },
+      {
+        "PS_CODE": 4083043,
+        "PS_NAME": "KAKOTIBARI PS"
+      },
+      {
+        "PS_CODE": 4083044,
+        "PS_NAME": "MORANHAT PS"
+      },
+      {
+        "PS_CODE": 4083049,
+        "PS_NAME": "NAZIRA"
+      },
+      {
+        "PS_CODE": 4083050,
+        "PS_NAME": "NAMTI CHARIALI PS"
+      },
+      {
+        "PS_CODE": 4083053,
+        "PS_NAME": "NAMTOLA"
+      },
+      {
+        "PS_CODE": 4083055,
+        "PS_NAME": "SAPEKHATI"
+      },
+      {
+        "PS_CODE": 4083058,
+        "PS_NAME": "SIBSAGAR"
+      },
+      {
+        "PS_CODE": 4083059,
+        "PS_NAME": "SONARI"
+      },
+      {
+        "PS_CODE": 4083060,
+        "PS_NAME": "SIMALUGURI"
+      },
+      {
+        "PS_CODE": 4083061,
+        "PS_NAME": "LAKWA"
+      }
+    ],
+    "BARPETA": [
+      {
+        "PS_CODE": 4084003,
+        "PS_NAME": "KACHUMARA RPS"
+      },
+      {
+        "PS_CODE": 4084004,
+        "PS_NAME": "ALOPATI  CHAR RPS"
+      },
+      {
+        "PS_CODE": 4084005,
+        "PS_NAME": "BAGHBOR"
+      },
+      {
+        "PS_CODE": 4084007,
+        "PS_NAME": "BARPETA"
+      },
+      {
+        "PS_CODE": 4084011,
+        "PS_NAME": "BARPETA ROAD"
+      },
+      {
+        "PS_CODE": 4084012,
+        "PS_NAME": "HOWLI"
+      },
+      {
+        "PS_CODE": 4084025,
+        "PS_NAME": "GARAIMARI"
+      },
+      {
+        "PS_CODE": 4084062,
+        "PS_NAME": "PATACHARKUCHI"
+      },
+      {
+        "PS_CODE": 4084063,
+        "PS_NAME": "KALGACHIA"
+      },
+      {
+        "PS_CODE": 4084065,
+        "PS_NAME": "PATHSALA"
+      },
+      {
+        "PS_CODE": 4084068,
+        "PS_NAME": "SARTHEBARI"
+      },
+      {
+        "PS_CODE": 4084069,
+        "PS_NAME": "SORBHOG"
+      },
+      {
+        "PS_CODE": 4084077,
+        "PS_NAME": "TARABARI"
+      },
+      {
+        "PS_CODE": 4084078,
+        "PS_NAME": "Alopatichar PS"
+      }
+    ],
+    "DHUBRI": [
+      {
+        "PS_CODE": 4085002,
+        "PS_NAME": "SAPTGRAM PS"
+      },
+      {
+        "PS_CODE": 4085003,
+        "PS_NAME": "TAMARHAT"
+      },
+      {
+        "PS_CODE": 4085004,
+        "PS_NAME": "FAKIRGANJ RPS"
+      },
+      {
+        "PS_CODE": 4085005,
+        "PS_NAME": "SUKCHAR RPS"
+      },
+      {
+        "PS_CODE": 4085006,
+        "PS_NAME": "BAGRIBARI"
+      },
+      {
+        "PS_CODE": 4085013,
+        "PS_NAME": "BILASHIPARA"
+      },
+      {
+        "PS_CODE": 4085022,
+        "PS_NAME": "CHAPOR PS"
+      },
+      {
+        "PS_CODE": 4085029,
+        "PS_NAME": "DHUBRI"
+      },
+      {
+        "PS_CODE": 4085046,
+        "PS_NAME": "GOLAKGANJ"
+      },
+      {
+        "PS_CODE": 4085047,
+        "PS_NAME": "GOURIPUR"
+      },
+      {
+        "PS_CODE": 4085067,
+        "PS_NAME": "MANCACHAR"
+      },
+      {
+        "PS_CODE": 4085091,
+        "PS_NAME": "SOUTH SALMARA"
+      },
+      {
+        "PS_CODE": 4085092,
+        "PS_NAME": "AGOMONI PS"
+      },
+      {
+        "PS_CODE": 4085095,
+        "PS_NAME": "Spatgram"
+      },
+      {
+        "PS_CODE": 4085096,
+        "PS_NAME": "Dhubri  Electricity PS"
+      }
+    ],
+    "JORHAT": [
+      {
+        "PS_CODE": 4086004,
+        "PS_NAME": "DAKHIN MAJULI/NEMATIGHAT RPS"
+      },
+      {
+        "PS_CODE": 4086005,
+        "PS_NAME": "BHAGAMUKH"
+      },
+      {
+        "PS_CODE": 4086007,
+        "PS_NAME": "BORHULLA"
+      },
+      {
+        "PS_CODE": 4086026,
+        "PS_NAME": "GARAMUR PS"
+      },
+      {
+        "PS_CODE": 4086027,
+        "PS_NAME": "JENGRAIMUKH"
+      },
+      {
+        "PS_CODE": 4086029,
+        "PS_NAME": "JORHAT"
+      },
+      {
+        "PS_CODE": 4086042,
+        "PS_NAME": "MAJULI"
+      },
+      {
+        "PS_CODE": 4086043,
+        "PS_NAME": "MARIANI"
+      },
+      {
+        "PS_CODE": 4086046,
+        "PS_NAME": "PULIBOR"
+      },
+      {
+        "PS_CODE": 4086066,
+        "PS_NAME": "TEOK"
+      },
+      {
+        "PS_CODE": 4086067,
+        "PS_NAME": "TITABAR"
+      },
+      {
+        "PS_CODE": 4086068,
+        "PS_NAME": "Jorhat Electricity PS"
+      },
+      {
+        "PS_CODE": 4086100,
+        "PS_NAME": "UNKNOWN PS"
+      }
+    ],
+    "KOKRAJHAR": [
+      {
+        "PS_CODE": 4087001,
+        "PS_NAME": "SALAKATI"
+      },
+      {
+        "PS_CODE": 4087006,
+        "PS_NAME": "BOGRIBARI"
+      },
+      {
+        "PS_CODE": 4087008,
+        "PS_NAME": "AMGURI"
+      },
+      {
+        "PS_CODE": 4087009,
+        "PS_NAME": "BASUGAON"
+      },
+      {
+        "PS_CODE": 4087026,
+        "PS_NAME": "DOTAMA"
+      },
+      {
+        "PS_CODE": 4087031,
+        "PS_NAME": "FAKIRAGRAM"
+      },
+      {
+        "PS_CODE": 4087047,
+        "PS_NAME": "GOSSAIGAON"
+      },
+      {
+        "PS_CODE": 4087056,
+        "PS_NAME": "KOKRAJHAR"
+      },
+      {
+        "PS_CODE": 4087057,
+        "PS_NAME": "KACHUGAON"
+      },
+      {
+        "PS_CODE": 4087062,
+        "PS_NAME": "KAZIGAON"
+      },
+      {
+        "PS_CODE": 4087090,
+        "PS_NAME": "SIDLI"
+      },
+      {
+        "PS_CODE": 4087091,
+        "PS_NAME": "SERFANGGURI"
+      },
+      {
+        "PS_CODE": 4087096,
+        "PS_NAME": "TAMARHAT"
+      },
+      {
+        "PS_CODE": 4087099,
+        "PS_NAME": "Bashbari"
+      },
+      {
+        "PS_CODE": 4087100,
+        "PS_NAME": "Chakrachila-Bashbari"
+      },
+      {
+        "PS_CODE": 4087101,
+        "PS_NAME": "Tikpai"
+      },
+      {
+        "PS_CODE": 4087102,
+        "PS_NAME": "Kokrajhar Electricity PS"
+      }
+    ],
+    "KARIMGANJ": [
+      {
+        "PS_CODE": 4088003,
+        "PS_NAME": "NILAMBAZAAR"
+      },
+      {
+        "PS_CODE": 4088004,
+        "PS_NAME": "BAZARICHERA"
+      },
+      {
+        "PS_CODE": 4088005,
+        "PS_NAME": "BADARPUR"
+      },
+      {
+        "PS_CODE": 4088032,
+        "PS_NAME": "KARIMGANJ PS"
+      },
+      {
+        "PS_CODE": 4088043,
+        "PS_NAME": "RAM KRISHNA NAGAR"
+      },
+      {
+        "PS_CODE": 4088055,
+        "PS_NAME": "PATHARKANDI"
+      },
+      {
+        "PS_CODE": 4088061,
+        "PS_NAME": "RATABARI"
+      }
+    ],
+    "SONITPUR": [
+      {
+        "PS_CODE": 4089005,
+        "PS_NAME": "GINGIA"
+      },
+      {
+        "PS_CODE": 4089006,
+        "PS_NAME": "BEHALI"
+      },
+      {
+        "PS_CODE": 4089008,
+        "PS_NAME": "BISWANATH CHARIALI"
+      },
+      {
+        "PS_CODE": 4089022,
+        "PS_NAME": "DHEKIAJULI"
+      },
+      {
+        "PS_CODE": 4089028,
+        "PS_NAME": "GOHPUR PS"
+      },
+      {
+        "PS_CODE": 4089033,
+        "PS_NAME": "HELEM"
+      },
+      {
+        "PS_CODE": 4089043,
+        "PS_NAME": "JAMUGURI"
+      },
+      {
+        "PS_CODE": 4089047,
+        "PS_NAME": "MISSAMARI"
+      },
+      {
+        "PS_CODE": 4089054,
+        "PS_NAME": "RANGAPARA"
+      },
+      {
+        "PS_CODE": 4089058,
+        "PS_NAME": "SOOTEA"
+      },
+      {
+        "PS_CODE": 4089062,
+        "PS_NAME": "TEZPUR"
+      },
+      {
+        "PS_CODE": 4089064,
+        "PS_NAME": "THELAMARA"
+      },
+      {
+        "PS_CODE": 4089065,
+        "PS_NAME": "CHARIDUAR"
+      },
+      {
+        "PS_CODE": 4089066,
+        "PS_NAME": "Tezpur Electricity PS"
+      },
+      {
+        "PS_CODE": 4093003,
+        "PS_NAME": "TEZPUR RPS"
+      }
+    ],
+    "NALBARI": [
+      {
+        "PS_CODE": 4090004,
+        "PS_NAME": "BHANGNAMARI RPS"
+      },
+      {
+        "PS_CODE": 4090005,
+        "PS_NAME": "SAILMANARI RPS"
+      },
+      {
+        "PS_CODE": 4090006,
+        "PS_NAME": "BARAMA"
+      },
+      {
+        "PS_CODE": 4090009,
+        "PS_NAME": "BELSOR"
+      },
+      {
+        "PS_CODE": 4090012,
+        "PS_NAME": "BORBORI"
+      },
+      {
+        "PS_CODE": 4090025,
+        "PS_NAME": "GHOGRAPAR PS"
+      },
+      {
+        "PS_CODE": 4090047,
+        "PS_NAME": "MUKALMUA"
+      },
+      {
+        "PS_CODE": 4090053,
+        "PS_NAME": "NALBARI"
+      },
+      {
+        "PS_CODE": 4090067,
+        "PS_NAME": "TAMULPUR"
+      },
+      {
+        "PS_CODE": 4090072,
+        "PS_NAME": "TIHU"
+      },
+      {
+        "PS_CODE": 4090073,
+        "PS_NAME": "Nalbari Electricity PS"
+      }
+    ],
+    "GUWAHATI EAST": [
+      {
+        "PS_CODE": 4091001,
+        "PS_NAME": "AZARA"
+      },
+      {
+        "PS_CODE": 4091002,
+        "PS_NAME": "BASISTHA"
+      },
+      {
+        "PS_CODE": 4091003,
+        "PS_NAME": "ALL WOMAN P.S"
+      },
+      {
+        "PS_CODE": 4091004,
+        "PS_NAME": "BHARALUMUKH"
+      },
+      {
+        "PS_CODE": 4091005,
+        "PS_NAME": "HATIGAON"
+      },
+      {
+        "PS_CODE": 4091006,
+        "PS_NAME": "SONAPUR"
+      },
+      {
+        "PS_CODE": 4091007,
+        "PS_NAME": "GORCHUK"
+      },
+      {
+        "PS_CODE": 4091008,
+        "PS_NAME": "SATGAON"
+      },
+      {
+        "PS_CODE": 4091009,
+        "PS_NAME": "DISPUR"
+      },
+      {
+        "PS_CODE": 4091015,
+        "PS_NAME": "CHANDMARI"
+      },
+      {
+        "PS_CODE": 4091021,
+        "PS_NAME": "FATASIL AMBARI"
+      },
+      {
+        "PS_CODE": 4091023,
+        "PS_NAME": "PAN BAZAR"
+      },
+      {
+        "PS_CODE": 4091032,
+        "PS_NAME": "JALUKBARI"
+      },
+      {
+        "PS_CODE": 4091041,
+        "PS_NAME": "KHETRI"
+      },
+      {
+        "PS_CODE": 4091044,
+        "PS_NAME": "LATASIL"
+      },
+      {
+        "PS_CODE": 4091054,
+        "PS_NAME": "NOONMATI"
+      },
+      {
+        "PS_CODE": 4091055,
+        "PS_NAME": "NORTH GUWAHATI"
+      },
+      {
+        "PS_CODE": 4091056,
+        "PS_NAME": "GEETA NAGAR"
+      },
+      {
+        "PS_CODE": 4091060,
+        "PS_NAME": "PALTAN BAZAR"
+      },
+      {
+        "PS_CODE": 4091061,
+        "PS_NAME": "PRAGJYOTISHPUR"
+      },
+      {
+        "PS_CODE": 4091065,
+        "PS_NAME": "SPECIAL TASK FORCE (S.T.F) PS"
+      },
+      {
+        "PS_CODE": 4091066,
+        "PS_NAME": "VIGILANCE AND ANTI-CORRUPTION(V&AC) PS"
+      },
+      {
+        "PS_CODE": 4091067,
+        "PS_NAME": "BHANGAGARH"
+      },
+      {
+        "PS_CODE": 4091068,
+        "PS_NAME": "GMCH"
+      }
+    ],
+    "GOLAGHAT": [
+      {
+        "PS_CODE": 4092006,
+        "PS_NAME": "BOKAKHAT"
+      },
+      {
+        "PS_CODE": 4092007,
+        "PS_NAME": "BORPATHAR"
+      },
+      {
+        "PS_CODE": 4092010,
+        "PS_NAME": "BURALICTION GAON"
+      },
+      {
+        "PS_CODE": 4092015,
+        "PS_NAME": "CHUNGAJAN"
+      },
+      {
+        "PS_CODE": 4092018,
+        "PS_NAME": "DERGAON"
+      },
+      {
+        "PS_CODE": 4092023,
+        "PS_NAME": "GOLAGHAT"
+      },
+      {
+        "PS_CODE": 4092026,
+        "PS_NAME": "GHILADHARI"
+      },
+      {
+        "PS_CODE": 4092028,
+        "PS_NAME": "JAMUGURI"
+      },
+      {
+        "PS_CODE": 4092031,
+        "PS_NAME": "KAMARGAON"
+      },
+      {
+        "PS_CODE": 4092046,
+        "PS_NAME": "MERAPANI"
+      },
+      {
+        "PS_CODE": 4092056,
+        "PS_NAME": "SARUPATHAR"
+      },
+      {
+        "PS_CODE": 4092062,
+        "PS_NAME": "URIUMGHAT"
+      },
+      {
+        "PS_CODE": 4092063,
+        "PS_NAME": "Bogijan"
+      },
+      {
+        "PS_CODE": 4092064,
+        "PS_NAME": "Golaghat Electricity PS"
+      },
+      {
+        "PS_CODE": 4092065,
+        "PS_NAME": "NUMALIGARH RURAL PS"
+      }
+    ],
+    "RIVER P S": [
+      {
+        "PS_CODE": 4093004,
+        "PS_NAME": "BISWANATH CHARIALI"
+      },
+      {
+        "PS_CODE": 4093011,
+        "PS_NAME": "BHURAGAON"
+      },
+      {
+        "PS_CODE": 4093021,
+        "PS_NAME": "SHYAMPURI RPS"
+      }
+    ],
+    "BONGAIGAON": [
+      {
+        "PS_CODE": 4094001,
+        "PS_NAME": "ABHAYAPURI"
+      },
+      {
+        "PS_CODE": 4094012,
+        "PS_NAME": "BIJNI"
+      },
+      {
+        "PS_CODE": 4094014,
+        "PS_NAME": "BONGAIGAON"
+      },
+      {
+        "PS_CODE": 4094025,
+        "PS_NAME": "DHALIGAON"
+      },
+      {
+        "PS_CODE": 4094049,
+        "PS_NAME": "JOGIGHOPA"
+      },
+      {
+        "PS_CODE": 4094069,
+        "PS_NAME": "MANIKPUR"
+      },
+      {
+        "PS_CODE": 4094090,
+        "PS_NAME": "SIDLI"
+      },
+      {
+        "PS_CODE": 4094091,
+        "PS_NAME": "MERERCHAR RPS"
+      }
+    ],
+    "DHEMAJI": [
+      {
+        "PS_CODE": 4095008,
+        "PS_NAME": "SIMEN CHAPORI"
+      },
+      {
+        "PS_CODE": 4095009,
+        "PS_NAME": "CHENGAJANGHAT RPS"
+      },
+      {
+        "PS_CODE": 4095010,
+        "PS_NAME": "DHAKUAKHANA"
+      },
+      {
+        "PS_CODE": 4095012,
+        "PS_NAME": "DHEMAJI"
+      },
+      {
+        "PS_CODE": 4095023,
+        "PS_NAME": "JONAI"
+      },
+      {
+        "PS_CODE": 4095028,
+        "PS_NAME": "GERUKAMUKH PS"
+      },
+      {
+        "PS_CODE": 4095030,
+        "PS_NAME": "GOGAMUKH"
+      },
+      {
+        "PS_CODE": 4095044,
+        "PS_NAME": "SILAPATHAR"
+      },
+      {
+        "PS_CODE": 4095045,
+        "PS_NAME": "Sissiborgaon"
+      }
+    ],
+    "HAILAKANDI": [
+      {
+        "PS_CODE": 4096002,
+        "PS_NAME": "RAMNATHPUR"
+      },
+      {
+        "PS_CODE": 4096003,
+        "PS_NAME": "ALGAPUR"
+      },
+      {
+        "PS_CODE": 4096021,
+        "PS_NAME": "HAILAKANDI"
+      },
+      {
+        "PS_CODE": 4096035,
+        "PS_NAME": "KATLICHERA"
+      },
+      {
+        "PS_CODE": 4096042,
+        "PS_NAME": "LALA"
+      },
+      {
+        "PS_CODE": 4096043,
+        "PS_NAME": "PANCHGRAM"
+      },
+      {
+        "PS_CODE": 4096044,
+        "PS_NAME": "BILAIPUR"
+      }
+    ],
+    "MORIGAON": [
+      {
+        "PS_CODE": 4097004,
+        "PS_NAME": "BHELOWGURI RPS"
+      },
+      {
+        "PS_CODE": 4097005,
+        "PS_NAME": "BHURAGAON PS"
+      },
+      {
+        "PS_CODE": 4097006,
+        "PS_NAME": "DHARAMTUL"
+      },
+      {
+        "PS_CODE": 4097017,
+        "PS_NAME": "JAGIROAD"
+      },
+      {
+        "PS_CODE": 4097028,
+        "PS_NAME": "LAHARIGHAT"
+      },
+      {
+        "PS_CODE": 4097032,
+        "PS_NAME": "MAYANG"
+      },
+      {
+        "PS_CODE": 4097035,
+        "PS_NAME": "MIKIRBHETA"
+      },
+      {
+        "PS_CODE": 4097037,
+        "PS_NAME": "MORIGAON PS"
+      },
+      {
+        "PS_CODE": 4097039,
+        "PS_NAME": "MAIRABARI"
+      }
+    ],
+    "TINSUKIA": [
+      {
+        "PS_CODE": 4098004,
+        "PS_NAME": "BORDUMSA"
+      },
+      {
+        "PS_CODE": 4098005,
+        "PS_NAME": "BEREKURI"
+      },
+      {
+        "PS_CODE": 4098006,
+        "PS_NAME": "BORDUBI"
+      },
+      {
+        "PS_CODE": 4098007,
+        "PS_NAME": "PHILLOBARI"
+      },
+      {
+        "PS_CODE": 4098008,
+        "PS_NAME": "TANGANA"
+      },
+      {
+        "PS_CODE": 4098009,
+        "PS_NAME": "BAGHJAN"
+      },
+      {
+        "PS_CODE": 4098012,
+        "PS_NAME": "CHANGCHUP CHARIALI"
+      },
+      {
+        "PS_CODE": 4098013,
+        "PS_NAME": "DHOLLA"
+      },
+      {
+        "PS_CODE": 4098016,
+        "PS_NAME": "DIGBOI"
+      },
+      {
+        "PS_CODE": 4098017,
+        "PS_NAME": "DOOMDOOMA"
+      },
+      {
+        "PS_CODE": 4098028,
+        "PS_NAME": "KAKAPATHAR"
+      },
+      {
+        "PS_CODE": 4098033,
+        "PS_NAME": "LEKHAPANI"
+      },
+      {
+        "PS_CODE": 4098035,
+        "PS_NAME": "MAKUM"
+      },
+      {
+        "PS_CODE": 4098036,
+        "PS_NAME": "MARGHERITA"
+      },
+      {
+        "PS_CODE": 4098037,
+        "PS_NAME": "PENGARI"
+      },
+      {
+        "PS_CODE": 4098051,
+        "PS_NAME": "SADIYA PS"
+      },
+      {
+        "PS_CODE": 4098056,
+        "PS_NAME": "TINSUKIA"
+      }
+    ],
+    "B.I. ECONOMIC OFFENCE": [
+      {
+        "PS_CODE": 4099000,
+        "PS_NAME": "B.I.E.O PS"
+      }
+    ],
+    "BAKSA": [
+      {
+        "PS_CODE": 4144006,
+        "PS_NAME": "BARAMA"
+      },
+      {
+        "PS_CODE": 4144007,
+        "PS_NAME": "BAGANPARA"
+      },
+      {
+        "PS_CODE": 4144012,
+        "PS_NAME": "BARBARI"
+      },
+      {
+        "PS_CODE": 4144022,
+        "PS_NAME": "GOBARDHANA"
+      },
+      {
+        "PS_CODE": 4144024,
+        "PS_NAME": "GORESWAR"
+      },
+      {
+        "PS_CODE": 4144036,
+        "PS_NAME": "KUMRIKATA"
+      },
+      {
+        "PS_CODE": 4144040,
+        "PS_NAME": "MUSHALPUR"
+      },
+      {
+        "PS_CODE": 4144045,
+        "PS_NAME": "NAGRIJULI"
+      },
+      {
+        "PS_CODE": 4144055,
+        "PS_NAME": "SALBARI"
+      },
+      {
+        "PS_CODE": 4144056,
+        "PS_NAME": "SIMLA"
+      },
+      {
+        "PS_CODE": 4144067,
+        "PS_NAME": "TAMULPUR"
+      },
+      {
+        "PS_CODE": 4144068,
+        "PS_NAME": "Baganpara"
+      },
+      {
+        "PS_CODE": 4144069,
+        "PS_NAME": "Nagrijuli"
+      },
+      {
+        "PS_CODE": 4144070,
+        "PS_NAME": "Kumarikata"
+      }
+    ],
+    "CHIRANG": [
+      {
+        "PS_CODE": 4145008,
+        "PS_NAME": "AMGURI"
+      },
+      {
+        "PS_CODE": 4145009,
+        "PS_NAME": "BASUGAON"
+      },
+      {
+        "PS_CODE": 4145010,
+        "PS_NAME": "BALLAMGURI"
+      },
+      {
+        "PS_CODE": 4145012,
+        "PS_NAME": "BIJNI"
+      },
+      {
+        "PS_CODE": 4145025,
+        "PS_NAME": "KAJALGAON"
+      },
+      {
+        "PS_CODE": 4145035,
+        "PS_NAME": "KAJALGAON PS"
+      },
+      {
+        "PS_CODE": 4145047,
+        "PS_NAME": "RUNIKHATA"
+      },
+      {
+        "PS_CODE": 4145060,
+        "PS_NAME": "PANBARI"
+      },
+      {
+        "PS_CODE": 4145090,
+        "PS_NAME": "SIDLI"
+      }
+    ],
+    "UDALGURI": [
+      {
+        "PS_CODE": 4146033,
+        "PS_NAME": "HARISINGA PS"
+      },
+      {
+        "PS_CODE": 4146034,
+        "PS_NAME": "ROWTA PS"
+      },
+      {
+        "PS_CODE": 4146035,
+        "PS_NAME": "DIMAKUCHI"
+      },
+      {
+        "PS_CODE": 4146036,
+        "PS_NAME": "KALAIGAON"
+      },
+      {
+        "PS_CODE": 4146037,
+        "PS_NAME": "KHAIRABARI"
+      },
+      {
+        "PS_CODE": 4146046,
+        "PS_NAME": "MAZBAT"
+      },
+      {
+        "PS_CODE": 4146052,
+        "PS_NAME": "PANERI"
+      },
+      {
+        "PS_CODE": 4146055,
+        "PS_NAME": "ORANG"
+      },
+      {
+        "PS_CODE": 4146061,
+        "PS_NAME": "TANGLA"
+      },
+      {
+        "PS_CODE": 4146066,
+        "PS_NAME": "UDALGURI"
+      }
+    ],
+    "S.B": [
+      {
+        "PS_CODE": 4147001,
+        "PS_NAME": "SB (S.O.U) PS"
+      }
+    ],
+    "West Karbi-Anglong": [
+      {
+        "PS_CODE": 4148001,
+        "PS_NAME": "BAITHALANGSO PS"
+      },
+      {
+        "PS_CODE": 4148002,
+        "PS_NAME": "KHERONI PS"
+      },
+      {
+        "PS_CODE": 4148003,
+        "PS_NAME": "HAMREN PS"
+      },
+      {
+        "PS_CODE": 4148004,
+        "PS_NAME": "ZIRIKINDING PS"
+      }
+    ],
+    "Charaideo": [
+      {
+        "PS_CODE": 4149001,
+        "PS_NAME": "BORHAT PS"
+      },
+      {
+        "PS_CODE": 4149002,
+        "PS_NAME": "CHARAIPUNG PS"
+      },
+      {
+        "PS_CODE": 4149003,
+        "PS_NAME": "KAKOTIBARI PS"
+      },
+      {
+        "PS_CODE": 4149004,
+        "PS_NAME": "MATHURAPUR"
+      },
+      {
+        "PS_CODE": 4149005,
+        "PS_NAME": "NAMTOLA"
+      },
+      {
+        "PS_CODE": 4149006,
+        "PS_NAME": "SAPEKHATI"
+      },
+      {
+        "PS_CODE": 4149007,
+        "PS_NAME": "MORANHAT PS"
+      },
+      {
+        "PS_CODE": 4149008,
+        "PS_NAME": "SONARI"
+      }
+    ],
+    "BAJALI": [
+      {
+        "PS_CODE": 4150001,
+        "PS_NAME": "PATACHARKUCHI PS"
+      },
+      {
+        "PS_CODE": 4150002,
+        "PS_NAME": "PATHSALA"
+      }
+    ],
+    "Guwahati Crime Branch": [
+      {
+        "PS_CODE": 4151001,
+        "PS_NAME": "CRIME BRANCH PS"
+      },
+      {
+        "PS_CODE": 4151002,
+        "PS_NAME": "CYBER PS POLICE COMMISSIONERATE"
+      }
+    ],
+    "TRANSPORT DEPT": [
+      {
+        "PS_CODE": 4958001,
+        "PS_NAME": "TRANSPORT DEPT, ASSAM"
+      }
+    ],
+    "TAMULPUR": [
+      {
+        "PS_CODE": 4959001,
+        "PS_NAME": "TAMULPUR PS"
+      },
+      {
+        "PS_CODE": 4959002,
+        "PS_NAME": "GORESWAR PS"
+      }
+    ]
+  }
+}
